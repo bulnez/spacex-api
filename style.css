@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#columns {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
